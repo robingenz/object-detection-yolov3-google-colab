@@ -18,8 +18,6 @@
 
 This guide explains how to train your own custom dataset with YOLOv3 using Darknet on Google Colaboratory.  
 
-<!-- > Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.   -->
-
 > Colaboratory is a research tool for machine learning education and research. It’s a Jupyter notebook environment that requires no setup to use.  
 
 This guide uses the following folder structure:  
