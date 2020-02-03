@@ -1,5 +1,7 @@
 # How to train YOLOv3 using Darknet on Google Colaboratory
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robingenz/object-detection-yolov3-google-colab/blob/master/Object_Detection_YOLOv3_Google_Colab.ipynb)
+
 - [Introduction](#introduction)
 - [Setup](#setup)
   - [Install dependencies](#install-dependencies)
